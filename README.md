@@ -6,7 +6,7 @@ This project was set up using Node.js. I constructed Node, LinkedList and TreeNo
 
 ## How to get project from Github
 
-- Go to https://github.com/AleksandraMuller/movie-app
+- Go to https://github.com/AleksandraMuller/banking-system
 
 - Click on the <> Code button and then clone the project
 
@@ -18,4 +18,4 @@ This project was set up using Node.js. I constructed Node, LinkedList and TreeNo
 
 In the project directory, you can run:
 
-npm start
+- npm start
