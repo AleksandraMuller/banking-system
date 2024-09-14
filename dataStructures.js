@@ -35,17 +35,6 @@ class LinkedList {
     }
     return null;
   }
-
-  findAccount(accountNumber) {
-    let current = this.head;
-    while (current) {
-      if (current.accountNumber === accountNumber) {
-        return current;
-      }
-      current = current.next;
-    }
-    return null;
-  }
 }
 
 class TreeNode {
